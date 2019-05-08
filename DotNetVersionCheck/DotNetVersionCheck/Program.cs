@@ -1,8 +1,8 @@
 ﻿using System;
 using Microsoft.Win32;
 
-// https://www.nuget.org/packages/Microsoft.Win32.Registry/
 // Install-Package Microsoft.Win32.Registry -Version 4.5.0
+// https://www.nuget.org/packages/Microsoft.Win32.Registry/
 
 namespace DotNetVersionCheck
 {
