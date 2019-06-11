@@ -1,0 +1,8 @@
+D:\DotNet\MultiChat\MultiChatClient\MultiChatServer\bin\Debug\MultiChatServer.exe
+D:\DotNet\MultiChat\MultiChatClient\MultiChatServer\bin\Debug\MultiChatServer.pdb
+D:\DotNet\MultiChat\MultiChatClient\MultiChatServer\obj\Debug\MultiChatServer.ChatForm.resources
+D:\DotNet\MultiChat\MultiChatClient\MultiChatServer\obj\Debug\MultiChatServer.Properties.Resources.resources
+D:\DotNet\MultiChat\MultiChatClient\MultiChatServer\obj\Debug\MultiChatServer.csproj.GenerateResource.Cache
+D:\DotNet\MultiChat\MultiChatClient\MultiChatServer\obj\Debug\MultiChatServer.csproj.CoreCompileInputs.cache
+D:\DotNet\MultiChat\MultiChatClient\MultiChatServer\obj\Debug\MultiChatServer.exe
+D:\DotNet\MultiChat\MultiChatClient\MultiChatServer\obj\Debug\MultiChatServer.pdb

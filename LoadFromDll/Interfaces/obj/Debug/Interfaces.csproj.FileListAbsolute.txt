@@ -1,0 +1,5 @@
+D:\DotNet\LoadFromDll\Interfaces\bin\Debug\Interfaces.dll
+D:\DotNet\LoadFromDll\Interfaces\bin\Debug\Interfaces.pdb
+D:\DotNet\LoadFromDll\Interfaces\obj\Debug\ResolveAssemblyReference.cache
+D:\DotNet\LoadFromDll\Interfaces\obj\Debug\Interfaces.dll
+D:\DotNet\LoadFromDll\Interfaces\obj\Debug\Interfaces.pdb

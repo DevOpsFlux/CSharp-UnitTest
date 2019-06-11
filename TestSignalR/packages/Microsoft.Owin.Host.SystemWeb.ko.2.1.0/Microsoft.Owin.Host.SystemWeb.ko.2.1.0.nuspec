@@ -1,0 +1,21 @@
+<?xml version="1.0"?>
+<package xmlns="http://schemas.microsoft.com/packaging/2011/08/nuspec.xsd">
+  <metadata>
+    <id>Microsoft.Owin.Host.SystemWeb.ko</id>
+    <version>2.1.0</version>
+    <title>OWIN 웹 응용 프로그램용 Microsoft ASP.NET 호스트 한국어 리소스</title>
+    <authors>Microsoft</authors>
+    <owners>Microsoft</owners>
+    <licenseUrl>http://www.microsoft.com/web/webpi/eula/aspnetcomponent_rtw_KOR.htm</licenseUrl>
+    <projectUrl>http://katanaproject.codeplex.com/</projectUrl>
+    <requireLicenseAcceptance>true</requireLicenseAcceptance>
+    <description>이 패키지에는 OWIN 웹 응용 프로그램용 ASP.NET 호스트용 한국어 위성 어셈블리가 포함되어 있습니다.</description>
+    <summary>Microsoft.Owin.Host.SystemWeb 패키지용 한국어 리소스입니다.</summary>
+    <copyright>© Microsoft Corporation. All rights reserved.</copyright>
+    <language>ko</language>
+    <tags>Microsoft OWIN Katana</tags>
+    <dependencies>
+      <dependency id="Microsoft.Owin.Host.SystemWeb" version="[2.1.0]" />
+    </dependencies>
+  </metadata>
+</package>

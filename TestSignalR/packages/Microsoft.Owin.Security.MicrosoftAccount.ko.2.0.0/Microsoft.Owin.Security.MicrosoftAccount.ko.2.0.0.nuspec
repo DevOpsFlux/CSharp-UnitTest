@@ -1,0 +1,21 @@
+<?xml version="1.0"?>
+<package xmlns="http://schemas.microsoft.com/packaging/2011/08/nuspec.xsd">
+  <metadata>
+    <id>Microsoft.Owin.Security.MicrosoftAccount.ko</id>
+    <version>2.0.0</version>
+    <title>Microsoft Owin Security Microsoft Account 한국어 리소스</title>
+    <authors>Microsoft</authors>
+    <owners>Microsoft</owners>
+    <licenseUrl>http://www.microsoft.com/web/webpi/eula/aspnetcomponent_rtw_KOR.htm</licenseUrl>
+    <projectUrl>http://katanaproject.codeplex.com/</projectUrl>
+    <requireLicenseAcceptance>true</requireLicenseAcceptance>
+    <description>이 패키지에는 Microsoft Owin Security Microsoft Account용 한국어 위성 어셈블리가 포함되어 있습니다.</description>
+    <summary>Microsoft.Owin.Security.MicrosoftAccount 패키지용 한국어 리소스입니다.</summary>
+    <copyright>© Microsoft Corporation. All rights reserved.</copyright>
+    <language>ko</language>
+    <tags>OWIN</tags>
+    <dependencies>
+      <dependency id="Microsoft.Owin.Security.MicrosoftAccount" version="[2.0.0]" />
+    </dependencies>
+  </metadata>
+</package>

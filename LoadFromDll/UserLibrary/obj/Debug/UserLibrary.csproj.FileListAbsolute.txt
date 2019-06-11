@@ -1,0 +1,7 @@
+D:\DotNet\LoadFromDll\UserLibrary\bin\Debug\UserLibrary.dll
+D:\DotNet\LoadFromDll\UserLibrary\bin\Debug\UserLibrary.pdb
+D:\DotNet\LoadFromDll\UserLibrary\bin\Debug\Interfaces.dll
+D:\DotNet\LoadFromDll\UserLibrary\bin\Debug\Interfaces.pdb
+D:\DotNet\LoadFromDll\UserLibrary\obj\Debug\ResolveAssemblyReference.cache
+D:\DotNet\LoadFromDll\UserLibrary\obj\Debug\UserLibrary.dll
+D:\DotNet\LoadFromDll\UserLibrary\obj\Debug\UserLibrary.pdb
