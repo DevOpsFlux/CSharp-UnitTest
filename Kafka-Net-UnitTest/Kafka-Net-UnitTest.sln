@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.1259
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Kafka-Net-UnitTest", "Kafka-Net-UnitTest\Kafka-Net-UnitTest.csproj", "{D9FE1A16-3E23-4E72-B0CC-53EC3A45855F}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{D9FE1A16-3E23-4E72-B0CC-53EC3A45855F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D9FE1A16-3E23-4E72-B0CC-53EC3A45855F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D9FE1A16-3E23-4E72-B0CC-53EC3A45855F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D9FE1A16-3E23-4E72-B0CC-53EC3A45855F}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {1477176E-5817-4DFC-88B6-EBFC8CEC507F}
+	EndGlobalSection
+EndGlobal
